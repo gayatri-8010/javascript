@@ -52,4 +52,4 @@ for(i=1;i<=10;i++){
 //continue--->to skip the current iteration
 
 //nested for loop
-// how to break from outer loop when we use break statement in inner loop
+// how to break from outer loop when we use break statement in inner loops
