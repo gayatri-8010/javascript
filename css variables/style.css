@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    --primary-color:#cd3700;
+    --primary-text-color:white;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: var(--primary-color);
+    color: var(--primary-text-color);
+}

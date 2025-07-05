@@ -1,0 +1,23 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  width: 500px;
+  height: 500px;
+  background: red;
+  gap: 10px;
+  
+}
+
+.child {
+background: aqua;
+height: 100px;
+width: 100px;
+
+    
+}

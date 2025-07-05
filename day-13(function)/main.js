@@ -211,13 +211,14 @@ function sumOfDigits(num) {
    //let count=0;
 
   while (num > 0) {
-    let digit = num % 10;          
+    let digit = num % 10;        
     num = parseInt(num  / 10);
     sum=sum+digit;
       //count++;
     
   }
-  return sum;
+ 
+    return sum;
   //return count;
 }
 

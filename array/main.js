@@ -1,7 +1,20 @@
 //dot notation
+/*
+const person = {
+    firstName: "gayatri",
+    lastName: "thorat",
+    age: 56
+}
 
+console.log(typeof person); // object
+console.log(person);
 
+// dot notation   --> obj.key --> value
 
+console.log(person.age);
+console.log(person.firstName);
+
+*/
 
 /*
 //how array and object are different-->

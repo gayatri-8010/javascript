@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+:root.dark{
+    --bg-color:white;
+    --text-color:black;
+}
+/*@media (prefers-color-scheme: dark ){
+    :root{
+    --bg-color:black;
+    --text-color:white;
+}
+}*/
+body{
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}    
